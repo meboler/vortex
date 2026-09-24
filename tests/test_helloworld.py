@@ -1,5 +1,3 @@
-import pytest
-
 from vortex import hello
 
 def test_helloworld():
