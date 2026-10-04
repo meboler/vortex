@@ -17,11 +17,13 @@ release = "0.1.0"
 extensions = [
     "sphinx.ext.autodoc",  # Generate docs from docstrings
     "sphinx.ext.napoleon",  # Support for NumPy and Google style docstrings
+    "sphinxcontrib-bibtex",  # Support for bibtex bibliographies
     "sphinx_rtd_theme",  # Pleasant theme
 ]
 
 templates_path = ["_templates"]
 exclude_patterns = []
+bibtex_bibfiles = "refs.bib"
 
 
 # -- Options for HTML output -------------------------------------------------
