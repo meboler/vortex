@@ -15,6 +15,8 @@ release = "0.1.0"
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
+    "sphinx.ext.autodoc",  # Generate docs from docstrings
+    "sphinx.ext.napoleon",  # Support for NumPy and Google style docstrings
     "sphinx_rtd_theme",  # Pleasant theme
 ]
 

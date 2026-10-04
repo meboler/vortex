@@ -14,4 +14,9 @@ documentation for details.
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+    
+    Installation <installation/index.rst>
+    Handbook <handbook/index.rst>
+    API <api/index.rst>
+    About <about.rst>
+    References <references.rst>
