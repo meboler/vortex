@@ -17,7 +17,7 @@ release = "0.1.0"
 extensions = [
     "sphinx.ext.autodoc",  # Generate docs from docstrings
     "sphinx.ext.napoleon",  # Support for NumPy and Google style docstrings
-    "sphinxcontrib-bibtex",  # Support for bibtex bibliographies
+    "sphinxcontrib.bibtex",  # Support for bibtex bibliographies
     "sphinx_rtd_theme",  # Pleasant theme
 ]
 
