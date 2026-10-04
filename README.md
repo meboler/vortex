@@ -16,13 +16,13 @@ pip install foobar
 import foobar
 
 # returns 'words'
-foobar.pluralize('word')
+foobar.pluralize("word")
 
 # returns 'geese'
-foobar.pluralize('goose')
+foobar.pluralize("goose")
 
 # returns 'phenomenon'
-foobar.singularize('phenomena')
+foobar.singularize("phenomena")
 ```
 
 ## Contributing
