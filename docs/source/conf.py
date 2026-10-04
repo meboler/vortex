@@ -23,7 +23,7 @@ extensions = [
 
 templates_path = ["_templates"]
 exclude_patterns = []
-bibtex_bibfiles = "refs.bib"
+bibtex_bibfiles = ["refs.bib"]
 
 
 # -- Options for HTML output -------------------------------------------------
